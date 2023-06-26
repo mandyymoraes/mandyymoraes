@@ -1,5 +1,5 @@
 <h1>👋</h1>
-<p>Me chamo Amanda Moraes e seja bem vindo ao meu perfil!</p>
+<h1>Me chamo Amanda Moraes e seja bem vindo ao meu perfil!</h1>
 <p>Sou estudante de Ciências da Computação na Unesp Rio Claro</p>
 <p>No momento estou me aventurando na sintaxe do C++ e estudando majoritariamente JavaScript!</p>
 
