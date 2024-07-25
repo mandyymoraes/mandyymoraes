@@ -1,7 +1,9 @@
 <h1>👋</h1>
 <h1> Sou a Amanda e seja bem vindo(a) ao meu perfil!</h1>
-<p>Sou estudante de Ciências da Computação na Unesp Rio Claro</p>
-<p>No momento estou me aventurando na sintaxe do C++ e estudando majoritariamente JavaScript!</p>
+<p>Sou Técnica de Informática e graduanda no curso de Ciências da Computação na UNESP Rio Claro.</p>
+<p>No momento estou me aprofundando dos conceitos de desenvolvimento Web como UI/UX Design, Prototipagem de Telas utilizando a ferramenta Figma e Aplicações Front-end utilizando HTML, CSS e JavaScript.</p>
+<p>Tenho diversos projetos utilizando as linguagens C e Java realizados referentes a disciplinas da universidade além de alguns diversos utilizando JavaScript e TypeScript.</p>
+
 
 
 <div>
@@ -13,10 +15,10 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
   
   ##
